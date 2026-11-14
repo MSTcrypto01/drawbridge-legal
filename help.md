@@ -8,7 +8,7 @@ dir: ltr
 # Help and support
 
 ## Contact
-A support email will be published here before public release. Until then, use the Help Center inside the app (it works offline).
+Email **[drawbridge.wallet@outlook.com](mailto:drawbridge.wallet@outlook.com)**. We reply within 2 business days. In the app: Settings → Help Center → **Email support**.
 
 When you write, describe the problem and the network involved. **Never send your recovery phrase, passphrase, PIN or
 private keys** to anyone, including us.
@@ -58,12 +58,13 @@ Use the PIN you set during setup.
 - **Restore a purchase:** open Drawbridge Pro and tap **Restore purchases**.
 - **Refunds:** Apple handles payments and refunds; request one at
   [reportaproblem.apple.com](https://reportaproblem.apple.com). Drawbridge never sees your payment details.
+- **Other questions about Pro:** email [drawbridge.wallet@outlook.com](mailto:drawbridge.wallet@outlook.com).
 - Every security feature stays free.
 
 ## Report a security issue
-If you find a vulnerability, contact us (see above) with "Security" in the subject and the steps to reproduce it. Test
-only with your own wallets and test networks, and give us reasonable time to fix the issue before disclosing it. We
-acknowledge reports within 2 business days.
+If you find a vulnerability, email [drawbridge.wallet@outlook.com](mailto:drawbridge.wallet@outlook.com) with "Security" in the subject and the steps to reproduce it (in the app:
+Settings → Help Center → **Report a security issue**). Test only with your own wallets and test networks, and give us
+reasonable time to fix the issue before disclosing it. We acknowledge reports within 2 business days.
 
 ## Policies
 [Support and Complaints Policy]({{ '/support/' | relative_url }}) · [Privacy Policy]({{ '/privacy/' | relative_url }}) ·

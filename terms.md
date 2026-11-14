@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Terms of Service"
-version: 0.1.0-draft
+version: 0.2.0-draft
 effective: 2026-12-01
 permalink: /terms/
 lang: en
@@ -58,4 +58,4 @@ You may stop using the App at any time by erasing it. Because the App is self-cu
 **Counsel decision required:** governing law, venue and any arbitration clause must be set by qualified counsel for each launch market. Mandatory consumer rights in your country of residence are not affected.
 
 ## 14. Contact
-Support details are listed in the Support and Complaints Policy. We will never ask for your recovery phrase.
+Email **drawbridge.wallet@outlook.com**, or see the help page (https://mstcrypto01.github.io/drawbridge-legal/help/) and the Support and Complaints Policy. We will never ask for your recovery phrase.

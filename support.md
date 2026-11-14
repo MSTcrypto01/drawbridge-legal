@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Support and Complaints Policy"
-version: 0.1.0-draft
+version: 0.2.0-draft
 effective: 2026-12-01
 permalink: /support/
 lang: en
@@ -9,11 +9,14 @@ dir: ltr
 ---
 # Support and Complaints Policy
 
-**DRAFT — contact channels to be confirmed before launch.**
+**DRAFT — not yet reviewed by qualified counsel.**
 
 ## How to get help
-- In-app Help Center (works offline).
-- Support email and web form: to be published on the App Store listing before public release.
+- In-app Help Center (Settings → Help Center; works offline), with an **Email support** button.
+- Email: **drawbridge.wallet@outlook.com**. We reply within 2 business days.
+- Help page: https://mstcrypto01.github.io/drawbridge-legal/help/ (Arabic: https://mstcrypto01.github.io/drawbridge-legal/ar/help/).
+- Security vulnerabilities: email us with "Security" in the subject and the steps to reproduce (see the help page). Test only with your own wallets and test networks.
+- Drawbridge Pro billing and refunds are handled by Apple (reportaproblem.apple.com); for other questions about Pro, email us.
 
 ## We will never
 - ask for your recovery phrase, passphrase, PIN or private keys;
@@ -22,7 +25,7 @@ dir: ltr
 Anyone doing these things is impersonating us.
 
 ## Complaints
-1. Contact support describing the issue (never include your phrase).
+1. Email **drawbridge.wallet@outlook.com** describing the issue (never include your phrase).
 2. We acknowledge within 2 business days and aim to resolve within 15 business days.
 3. If unresolved, you may escalate to management review; you may also contact a consumer authority or regulator where you live.
 
