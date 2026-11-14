@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title == site.title %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
-<meta name="description" content="{% if page.lang == 'ar' %}{{ page.title }} — محفظة Drawbridge ذاتية الحفظ التي تبقى غير متصلة افتراضيًا.{% else %}{{ page.title }} for Drawbridge, the offline-first self-custody wallet.{% endif %}">
+<meta name="description" content="{% if page.title == site.title %}{{ site.description }}{% elsif page.lang == 'ar' %}{{ page.title }} — محفظة Drawbridge ذاتية الحفظ التي تبقى غير متصلة افتراضيًا.{% else %}{{ page.title }} for Drawbridge, the offline-first self-custody wallet.{% endif %}">
 <style>
 :root { --bg: #f4f2ec; --surface: #ffffff; --ink: #0b1620; --muted: #4b5a63; --accent: #1f5c56; --line: #e2ddd2; }
 @media (prefers-color-scheme: dark) { :root { --bg: #070d12; --surface: #111a21; --ink: #f4f1ea; --muted: #a9b4ba; --accent: #61a39e; --line: #22303a; } }
