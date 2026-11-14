@@ -9,7 +9,7 @@ dir: ltr
 
 Drawbridge is a self-custody crypto wallet for iPhone that stays offline by default. Your keys stay on your device; the developer never holds them or your assets.
 
-**Support:** use the Help Center inside the app (it works offline). A support email will be published here before public release. We will never ask for your recovery phrase, PIN or private keys.
+**Support:** [Help and support]({{ '/help/' | relative_url }}): contact, common questions, subscriptions and security reports. We will never ask for your recovery phrase, PIN or private keys.
 
 ## Policies
 
